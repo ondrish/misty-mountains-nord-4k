@@ -1,5 +1,7 @@
 # misty-mountains-nord-4k
 
+![Screenshot](Screenshot.png)
+
 An SDDM login theme based on [arcolinux-simplicity](https://gitlab.com/isseigx/simplicity-sddm-theme) by Gabriel Ibáñez, featuring a misty mountains background and the [Nord color palette](https://www.nordtheme.com/). UI elements are scaled up to look sharp on 4K displays.
 
 ## Features
