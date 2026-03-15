@@ -1,16 +1,16 @@
 [SddmGreeterTheme]
-Name=ArcoLinux Simplicity
+Name=MistyMountains Simplicity
 Description=Simple SDDM theme
 Type=sddm-theme
-Author=Gabriel Ibáñez
-Copyright=(c) 2019, Gabriel Ibáñez
-Screenshot=screenshot.jpg
+Author=Ondrish Jay
+Copyright=(c) 2026, Ondrish Jay
+Screenshot=Screenshot.png
 License=GPL
 Version=1.0
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=arcolinux-simplicity
+Theme-Id=mistymountains-simplicity
 Theme-API=2.0
-Website=https://gitlab.com/isseigx/simplicity-sddm-theme
+Website=https://github.com/ondrish/misty-mountains-nord-4k
 
