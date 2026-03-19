@@ -1,4 +1,4 @@
-# misty-mountains-nord-4k
+# sddm-misty-mountains-nord-4k
 
 ![Screenshot](Screenshot.png)
 
